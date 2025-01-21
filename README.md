@@ -1,6 +1,7 @@
 # 💫About Me :
-<p>I am an IT student.</p>
-<p>I am studying at the University of Information Technology in Vietnam.</p>
+<p>I'm an IT student at the University of Information Technology in Vietnam.</p>
+<p>I'm interested in Frontend development (still learning) and always open to learning more about other things in the IT industry.</p>
+<p>My goal is to have a job in the industry as fast as possible to upskill myself and earn experience to make myself more valuable, so I'm ready to consider any potential offer.</p>
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/miles1302)
